@@ -72,6 +72,15 @@ Remember to document each step thoroughly and consider creating a pipeline for r
 
 
 
+<br>
+
+<B>To view the project working click on below url</B>
+
+<i>
+  Local URL: http://localhost:8501
+  Network URL: http://10.10.17.91:8501
+
+</i>
 
 
 
