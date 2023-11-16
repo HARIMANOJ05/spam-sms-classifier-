@@ -1,12 +1,20 @@
 # spam-sms-classifier-
 <b>spam sms classifier application using nlp machine learning </b>
-</br>
-
+<br>
 
 <i>This project is a simple SMS spam classifier that uses machine learning techniques to distinguish between spam and non-spam (ham) messages. The classifier is trained on a labeled dataset of SMS messages to learn patterns and features that differentiate spam from legitimate messages.</i>
 
-</br>
+<br>
 
+<B>To view the project working click on below url</B>
+
+<i>
+Local URL: http://localhost:8501
+  <br>
+Network URL: http://10.10.17.91:8501
+
+</i>
+<br>
 1. Data Collection:
 Collect a labeled dataset of SMS messages, where each message is tagged as either spam or ham (non-spam). The dataset should be diverse and representative of the types of messages the classifier will encounter.
 
@@ -78,7 +86,8 @@ Remember to document each step thoroughly and consider creating a pipeline for r
 
 <i>
   Local URL: http://localhost:8501
-  Network URL: http://10.10.17.91:8501
+  <br>
+    Network URL: http://10.10.17.91:8501
 
 </i>
 
