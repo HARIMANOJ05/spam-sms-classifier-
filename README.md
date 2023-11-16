@@ -15,6 +15,8 @@ Network URL: http://10.10.17.91:8501
 
 </i>
 <br>
+
+<br>
 1. Data Collection:
 Collect a labeled dataset of SMS messages, where each message is tagged as either spam or ham (non-spam). The dataset should be diverse and representative of the types of messages the classifier will encounter.
 
