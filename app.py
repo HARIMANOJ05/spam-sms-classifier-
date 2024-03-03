@@ -56,7 +56,7 @@ if st.button('predict'):
 
         vector_input= tfvec.transform([transformed_sms])
         dense_vector_input= vector_input.toarray()
-#predict 
+#prediction
 
         result=model.predict(dense_vector_input)[0]
 
