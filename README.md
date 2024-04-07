@@ -57,7 +57,7 @@ This project is NOT licensed under any authority
 
 ---
 
-Feel free to customize this README according to your project's specific details and requirements.
+
 
 
 
