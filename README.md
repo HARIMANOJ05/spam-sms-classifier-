@@ -68,7 +68,7 @@ This project is NOT licensed under any authority
 <i>
   Local URL: http://localhost:8501
   <br>
-    Network URL: http://10.10.17.91:8501
+    Network URL: http://192.168.205.32:8501
 
 </i>
 
